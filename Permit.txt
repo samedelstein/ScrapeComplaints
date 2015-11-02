@@ -53,15 +53,19 @@ Fense shall stay on own property.
 
 Build-out and miscellaneous exterior work including intallation of a patio seating area for an [A-2] occupancy - restaruant of type [IIIb] construction per the attached architectural plans dated (11-16-2011).
 
-Comply with all at24-28 Burnet Ave & Beech St N, Syracuse 13203|Issued: 3/16/2012, Completed: 3/21/2013, Completion Type: Certificate of Completion, Completion #: 94435|HVAC/Mechanical|Certificate Issued|None
-05447|617 Seymour St, Syracuse 13204|Issued: 3/16/2012, Completed: 5/11/2012, Completion Type: Completed, Completion #: 05445|Electric|Completed - No Cert|ESR # 12409811 pole #1 corner Amy & Seymour
-meter set
-05447|2150 Geddes St S, Syracuse 13207|Issued: 3/16/2012, Expires: 3/16/2013|Electric|Void|150 amp service.
+Comply with all attached reviews and approvals.  Separate permits are required for any and all HVAC, ANSUL system, plumbing, electric, etc... .  Comply with Chapter 33 of the Building Code of New York State for safeguards during construction.
+05447|508-10 Westcott St, Syracuse 13210|Issued: 3/16/2012, Completed: 10/23/2012, Completion Type: Certificate of Occupancy, Completion #: 04020|Com. Reno/Rem/Chg Occ|Certificate Issued|Tenant: "Beer Belly Deli & Pub" (Left restaurant tenant space when facing building from Westcott Street)
 
-ESR: 12560231
-05447|746 Crouse Ave S, Syracuse 13210|Issued: 3/16/2012, Completed: 4/26/2012, Completion Type: Certificate of Occupancy, Completion #: 05612|Electric|Certificate Issued|Dunkin Donuts Electric Work
-05447|338-40 Kennedy St W, Syracuse 13205|Issued: 3/16/2012, Completed: 4/9/2013, Completion Type: Certificate of Completion, Completion #: 05444|Electric|Completed - No Cert|Account Number: 8750182157
+Build-out and miscellaneous exterior work including intallation of a patio seating area for an [A-2] occupancy - restaruant of type [IIIb] construction per the attached architectural plans dated (11-16-2011).
 
-Meter Set
-05447|219 Gilbert Ave, Syracuse 13208|Issued: 3/15/2012, Expires: 9/15/2013|HVAC/Mechanical|Void|case # 8
-05447|306 Hiawatha Blvd W, Syracuse 13204|Issued: 3/16/2012, Expires: 3/16/2013|HVAC/Mechanical|Void|None
+**Mezzaine is not an occupied space (No seating or office)**
+
+Comply with all attached reviews and approvals.  Separate permits are required for any and all HVAC, ANSUL system, plumbing, electric, etc... .  Comply with Chapter 33 of the Building Code of New York State for safeguards during construction.
+05447|110 Hartson St, Syracuse 13204|Issued: 3/16/2012, Expires: 3/16/2013|HVAC/Mechanical|Void|None
+05447|1102 Midland Ave & Kirk Ave, Syracuse 13205|Issued: 3/16/2012, Expires: 3/16/2013|HVAC/Mechanical|Void|New Furnace and T'stat.
+05447|208 Beecher St, Syracuse 13203|Issued: 3/16/2012, Expires: 3/16/2013|HVAC/Mechanical|Void|(2) furnaces and (2) t'stats.
+05447|306 Hiawatha Blvd W, Syracuse 13204|Issued: 3/16/2012, Completed: 5/15/2012, Completion Type: Certificate of Completion, Completion #: 05548|Fire Alarm|Certificate Issued|BCBG M-100 Fire A. Pompo Electric
+05447|1540 Genesee St E, Syracuse 13210|Issued: 3/16/2012, Completed: 1/30/2013, Completion Type: Certificate of Completion, Completion #: 05610|Com. Reno/Rem/Chg Occ|Certificate Issued|Re-roof structure per attached spec sheet. All work shall comply with attached zoning approval.
+05447|725 Irving Ave, Syracuse 13210|Issued: 3/16/2012, Expires: 3/16/2013|HVAC/Mechanical|Void|hvac for Nephrology Suite 805
+05447|1100 Genesee St E & University Ave, Syracuse 13210|Issued: 3/16/2012, Completed: 3/16/2012, Completion Type: Certificate of Completion, Completion #: 05609|HVAC/Mechanical|Certificate Issued|150,000 BTU Boiler and additional items.
+05447|617 Hiawatha Blvd E & Second, Syracuse 13208|Issued: 3/16/2012, Completed: 3/16/2012, Completion Type: Certificate of Completion, Completion #: 05611|HVAC/Mechanical|Certificate Issued|None
